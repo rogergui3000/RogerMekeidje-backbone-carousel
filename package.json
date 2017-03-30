@@ -1,0 +1,23 @@
+{
+  "name": "RogerMekeidje-backbone-carousel",
+  "version": "0.0.8",
+  "description": "Backbone.js carousel, without using existing plugins.",
+  "author": "Roger Mekeidje <mekeidje.roger@20four7va.com>",
+  "homepage": "http://mekeidjeroger.comly.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rogergui3000/RogerMekeidje-backbone-carousel/"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "0.7.8"
+ },
+  "engines": {
+    "node": ">0.8.x"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}

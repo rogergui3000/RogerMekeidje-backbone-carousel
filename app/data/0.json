@@ -1,0 +1,28 @@
+[{
+	"title": "Apple",
+	"images": ["/photos/apple/ios_large.jpg", "/photos/apple/ipad_pro_large.jpg", "/photos/apple/iphone_se_large.jpg","/photos/apple/macos_sierra_alt_large.jpg"]
+},{
+	"title": "Books",
+	"images": ["/photos/books/book.jpg", "/photos/books/book-1.jpg", "/photos/books/book-2.png"]
+},{
+	"title": "Offices",
+	"images": ["/photos/offices/room_office.jpg", "/photos/offices/living_office.jpg"]
+},{
+	"title": "People",
+	"images": ["/photos/people/roger.jpg", "/photos/people/nadia.jpg", "/photos/people/clara.jpg","/photos/people/joyce.jpeg"]
+},{
+	"title": "Samuel Eto'o",
+	"images": ["/photos/etoo/etoo.jpg", "/photos/etoo/samuel_score.jpg", "/photos/etoo/samuel_ballon_or.jpg"]
+},{
+	"title": "Cameroon",
+	"images": ["/photos/cameroon/cameroon_flag.png"]
+},{
+	"title": "Yaounde",
+	"images": ["/photos/yaounde/yaounde_central.jpg"]
+},{
+	"title": "Bamilike",
+	"images": ["/photos/bamileke/chef_bafoussam.jpg", "/photos/bamileke/culture.jpg"]
+},{
+	"title": "Mtn",
+	"images": ["/photos/mtn/mtn.jpg"]
+}]
